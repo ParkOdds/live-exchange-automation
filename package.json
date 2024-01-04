@@ -1,0 +1,13 @@
+{
+  "name": "live-exchange-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ParkOdds/live-exchange-automation.git",
+  "author": "Park <nattapol@odds.team>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.6"
+  },
+  "scripts": {}
+}
